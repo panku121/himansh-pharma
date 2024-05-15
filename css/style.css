@@ -276,7 +276,7 @@
 /*** service End ***/
 
 
-/*** Fruits Start ***/
+/*** Tablet Start ***/
 .fruite .tab-class .nav-item a.active {
     background: var(--bs-secondary) !important;
 }
@@ -318,7 +318,7 @@
 .fruite .fruite-item .fruite-img img:hover {
     transform: scale(1.3);
 }
-/*** Fruits End ***/
+/*** Tablet End ***/
 
 
 /*** vesitable Start ***/
